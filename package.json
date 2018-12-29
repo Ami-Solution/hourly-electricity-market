@@ -1,12 +1,12 @@
 {
-  "name": "gsi-mobile",
-  "version": "1.0.0",
-  "description": "",
+  "name": "ami-mobile",
+  "version": "1.0.1",
+  "description": "hourly-electricity-market",
   "main": "example_usage.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Thorsten Zoerner <me@thorsten-zoerner.com> (https://blog.stromhaltig.de)",
+  "author": "AMi-Solution (https://ami-solution.github.io/hourly-electricity-market)",
   "license": "ISC",
   "dependencies": {
     "async": "^2.0.1",
